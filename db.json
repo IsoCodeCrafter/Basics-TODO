@@ -1,0 +1,41 @@
+{
+  "todos": [
+    {
+      "id": "a7cf0795-e6a2-4f9a-a7bc-6eedde0323ef",
+      "title": "43324",
+      "date": "28.09.2023 11:37:48",
+      "isDone": true
+    },
+    {
+      "id": "5416467e-1b2f-451e-8273-9809d21cc9af",
+      "title": "543534",
+      "date": "28.09.2023 11:37:49",
+      "isDone": true
+    },
+    {
+      "id": "13b147e3-106e-4550-a863-178a0bd07e1a",
+      "title": "2313123",
+      "date": "28.09.2023 11:38:04",
+      "isDone": false
+    }
+  ],
+  "users": [
+    {
+      "id": "145",
+      "name": "ilker",
+      "email": "ece@gmai"
+    },
+    {
+      "id": "1422225",
+      "name": "ilker23123",
+      "email": "ece@gmai2323"
+    }
+  ],
+  "categories": [
+    {
+      "id": "545645",
+      "title": "iş",
+      "img": "URL"
+    }
+  ]
+}
